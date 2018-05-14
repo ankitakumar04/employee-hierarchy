@@ -1,0 +1,42 @@
+body {
+    width:100%;
+    height:100px;
+    overflow-x:scroll;
+}
+
+.card {
+    width: 250px;
+    margin: 25px;
+    box-shadow: 1px 1px #e0e0e0;
+    display: inline-block;
+    margin-top: 20px;
+    border: 1px solid #000000;
+}
+
+.card:hover {
+    cursor: pointer;
+}
+
+.team {
+    background-color: #1dbdc0;
+    color: #ffffff;
+    padding: 8px 0 10px 0;
+}
+
+.name {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#main{
+    text-align: center;
+}
+
+.members {
+    display: flex;
+    color: #707070;
+}
+
+.members span {
+    flex: 1;
+}

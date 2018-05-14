@@ -1,0 +1,14 @@
+data = [
+    {"Id": 1,"Name": "Gilfoey","title": "Co-founder - CEO","Parent": "","root": "true", "depth": 0},
+    {"Id": 2,"Name": "Ashton","title": "CTO","Parent": 1, "depth": 1},
+    {"Id": 3,"Name": "Martin","title": "Backend","Parent": 2, "depth": 2},
+    {"Id": 4,"Name": "Rock","title": "Frontend","Parent": 2, "depth": 2},
+    {"Id": 5,"Name": "Dave","title": "Design","Parent": 2, "depth": 2},
+    {"Id": 6,"Name": "Thet","title": "Devops","Parent": 2, "depth": 2},
+    {"Id": 7,"Name": "Chris","title": "Sales","Parent": 3, "depth": 3},
+    {"Id": 8,"Name": "Harris","title": "Frontend-intern","Parent": 4, "depth": 3},
+    {"Id": 9,"Name": "Brad","title": "E-commerce","Parent": 5, "depth": 3},
+    {"Id": 10,"Name": "Aman","title": "A-Pac","Parent": 5, "depth": 3},
+    {"Id": 11,"Name": "Angel","title": "Europe","Parent": 6, "depth": 3},
+    {"Id": 12,"Name": "Tirak","title": "HR","Parent": 8, "depth": 4}
+];
